@@ -37,14 +37,14 @@ Key results:
 
 ## Repository structure
 
-
-quadrupole_optimize.py        Main script — run this
-quadrupole_paper_en.tex       LaTeX source of the full paper
-quadrupole_paper_en.pdf       Compiled PDF (13 pages)
-fig1_field_geometry.png       Wire positions + field lines + beam region
-fig2_multipole_spectrum.png   Allowed vs. forbidden harmonics (bar chart)
-fig3_scaling_law.png          |bₙ|/|b₂| ∝ (r/r₀)ⁿ⁻² verification
-fig4_convergence_sensitivity.png  Nelder-Mead history + angular tolerance
+| File Name | Description |
+|------|----------------------|
+|quadrupole_optimize.py       | Main script — run this |
+|quadrupole_paper_en.pdf      | Compiled PDF (13 pages) |
+|fig1_field_geometry.png      | Wire positions + field lines + beam region |
+|fig2_multipole_spectrum.png  | Allowed vs. forbidden harmonics (bar chart) |
+|fig3_scaling_law.png      |    \|bₙ\|/\|b₂\| ∝ (r/r₀)ⁿ⁻² verification |
+|fig4_convergence_sensitivity.png | Nelder-Mead history + angular tolerance |
 
 
 
